@@ -1,0 +1,119 @@
+{
+	"peliculas": [
+		{
+			"name": "Taxi Driver", 
+			"sypnosis":"Para sobrellevar el insomnio crónico que sufre desde su regreso de Vietnam, Travis Bickle trabaja como taxista nocturno en Nueva York.", 
+			"director": "Martin Scorsese"
+		},
+		{
+			"name": "Uno de los nuestros", 
+			"sypnosis":"Henry, un niño de trece años de Brooklyn, vive fascinado con el mundo de los gángsters. Su sueño se hace realidad cuando entra en la familia Pauline.", 
+			"director": "Martin Scorsese"
+		},
+		{
+			"name": "El apartamento", 
+			"sypnosis":"C.C.Baxter, empleado en una compañía de seguros, intenta ascender en la empresa prestando la llave de su apartamento para las citas de sus jefes.", 
+			"director": "Billy Wilder"
+		},
+		{
+			"name": "El crepúsculo", 
+			"sypnosis":"Joe Gillis es un joven escritor, que acosado por sus acreedores, se refugia en la mansión de Norma Desmond, antigua estrella del cine mudo. La actriz pretende que Joe corrija un guión que ella ha escrito y que va a significar su regreso al cine.", 
+			"director": "Billy Wilder"
+		},
+		{
+			"name": "El séptimo sello", 
+			"sypnosis":"Relata el viaje de un caballero cruzado (Max von Sydow) y de una partida de ajedrez que él juega con la Muerte (Bengt Ekerot), la cual ha venido a tomar su alma.", 
+			"director": "Ingmar Bergman"
+		},
+		{
+			"name": "La Strada", 
+			"sypnosis":"La Strada nos cuenta la vida de Zampanó (Anthony Quinn) que es un artista ambulante sin escrúpulos que se gana la vida con pequeños espectáculos circenses por los pueblos de la empobrecida Italia de los años cincuenta del siglo pasado.", 
+			"director": "Federico Fellini"
+		},
+		{
+			"name": "La Dolce Vita", 
+			"sypnosis":"Marcello Rubini es un desencantado periodista que se recorre los bares de Roma en busca de celebridades. Cuando Sylvia, una célebre diva del mundo del cine, llega a Roma, ve en ella la su oportunidad y la persigue durante varias noches.", 
+			"director": "Billy Wilder"
+		},
+		{
+			"name": "La semilla del diablo", 
+			"sypnosis":"Un matrimonio se instala en un apartamento de Nueva York sin sospechar que sus ancianos vecinos pertenecen a una secta satánica. Cuando Rosemary se queda embarazada, se aísla poco a poco y la verdad sobre su bebé es revelada después de tenerlo.", 
+			"director": "Roman Polanski"
+		}
+	],
+	"documentales": [
+		{
+			"name": "Titicut Follies",
+			"sypnosis": "Este debut en la dirección de Frederick Wiseman, documentalista asociado, aunque él deteste el término al género del direct cinema es, probablemente, uno de los documentales más duros a los que podamos enfrentarnos. Un desasosegante y asfixiante retrato en blanco y negro de los abusos sufridos por los pacientes de una institución mental a mediados de los sesenta, parco en palabras, y que se sirve únicamente de su impacto visual para obligarnos a mantener la mirada clavada en la pantalla, la mayor parte del tiempo, en contra de nuestra propia voluntad.",
+			"director": "Frederick Wiseman"
+		},
+		{
+			"name": "Capturing the Friedmans",
+			"sypnosis": "'Capturing the Friedmans' una obra clave dentro del documental criminal que explora los límites de la verdad, los claroscuros de la justicia y la destrucción de una familia a través de un tema muy delicado como es la pederastia. Una pieza excepcional que se arraiga en la memoria del espectador y pone a prueba su código ético y moral sin demasiado esfuerzo.",
+			"director": "Andrew Jarecki"
+		},
+		{
+			"name": "Líbranos del mal",
+			"sypnosis": "Amy Berg una nominación al Óscar en 2006. Una auténtica pesadilla que bien podría haber sido extraída del más horrendo filme de terror en la que se narra la historia del padre Oliver O’Grady, que violó a decenas de niños durante dos décadas y el modo en que la Iglesia Católica logró encubrir sus crímenes. Demoledor y filmado con una frialdad que hiela la sangre.",
+			"director": "Amy Berg"
+		},
+		{
+			"name": "Bowling for Columbine",
+			"sypnosis": "'Bowling for Columbine' que se alzó con el Óscar gracias a su fantástico poder reivindicativo, a una agilidad narrativa impepinable y a un sentido del humor, corrosivo a más no poder, necesario para tratar con la mayor ligereza posible un tema muy delicado como el control de armas en EE.UU. Todo un punto de referencia dentro del documental moderno.",
+			"director": "Michael Moore"
+		},
+		{
+			"name": "I Am not Your Negro",
+			"sypnosis": "Sin abandonar el documental más reivindicación, pasamos del aún hoy vigente problema armamentístico norteamericano a este excepcional ensayo sobre la historia del movimiento afroamericano en Estados Unidos, la actualidad del mismo y una problemática racial que continúa tristemente vigente. La intensa narración de Samuel L. Jackson y una realización y montaje excepcionales terminan de dar forma a uno de los mejores ejercicios que hayamos ver en esta década a punto de terminar.",
+			"director": "Raoul Peck"
+		},
+		{
+			"name": "The Square",
+			"sypnosis": "Periodismo en estado puro. Así podríamos calificar a una 'The Square' que cosechó un buen número de premios y nominaciones en la temporada 2013 gracias a su crónica de la convulsa revolución política en el Egipto de principios de década. Un ejercicio cuyas indiscutibles cualidades formales y narrativas son sepultadas por su valor documental y por la forma en la hace partícipe al espectador del irrespirable clima social del momento.",
+			"director": "ehane Noujaim"
+		},
+		{
+			"name": "Werner Herzog",
+			"sypnosis": "Hablando de Werner Herzog, hay que reconocer que el Alemán posee grandísimas obras en su filmografía, tanto en la ficción como en el documental disciplina que nos ocupa, pero de entre todas sus piezas remarcables, debo elegir por gustos personales una 'Grizzly Man' que pone frente a frente los puntos de vista sobre la vida de su protagonista y su realizador; todo ello para dar forma a una reflexión que va mucho más allá del morbo de su premisa. Una obra maestra.",
+			"director": "Werner Herzog"
+		}
+	],
+	"estrenos": [
+		{
+			"name": "Flash",
+			"sypnosis": "Flash viaja a través del tiempo para evitar el asesinato de su madre, pero sin saberlo provoca cambios que resultan en la creación de un multiverso.",
+			"director": "Andy Muschietti"
+		},
+		{
+			"name": "Misión Imposible 7",
+			"sypnosis": "Misión imposible 7 se centra en la aventura más peligrosa que atraviesa nuestro protagonista hasta el momento. Así se lee en la sinopsis oficial del proyecto: 'Ethan Hunt y su equipo del FMI se embarcan en la misión de rastrear una nueva arma aterradora que amenaza a toda la humanidad, antes de que caiga en el manos equivocadas'.",
+			"director": "Christopher McQuarrie"
+		},
+		{
+			"name": "Oppenheimer",
+			"sypnosis": "El físico J Robert Oppenheimer trabaja con un equipo de científicos durante el Proyecto Manhattan, que condujo al desarrollo de la bomba atómica.",
+			"director": "Christopher Nolan"
+		},
+		{
+			"name": "Meg 2: The Trench",
+			"sypnosis":"Cuatro años después del incidente en Mariana Trench que desató un Megaladon preñado, Jonas Taylor ahora alberga a su única descendencia sobreviviente en el Instituto Tanaka. Profundamente endeudado, Taylor ha recurrido a un excéntrico multimillonario para ayudar a mantener el instituto a flote, pero esto tiene un precio.",
+			"director": "Ben Wheatley"
+		},
+		{
+			"name": "Gran Turismo",
+			"sypnosis": "Basada en una historia real, Gran Turismo sigue a un adolescente que está obsesionado con jugar a un videojuego de carreras y que antes o después acaba llevando sus inquietudes a una pista de carreras real, con la esperanza de convertirse en un piloto de carreras profesional.",
+			"director": "Neill Blomkamp"
+		},
+		{
+			"name": "Blue Beetle",
+			"sypnosis": "un adolescente que gana superpoderes cuando un escarabajo alienígena Blue Beetle se injerta en él, formando un poderoso exoesqueleto reconfigurador alrededor de su cuerpo . Susan Sarandon como Victoria Kord: una empresaria que está empeñada en adquirir el Scarab.",
+			"director": "Angel Manuel Soto"
+		},
+		{
+			"name": "La monja 2",
+			"sypnosis": "Un sacerdote es asesinado, un mal se extiende y la hermana Irene se enfrenta de nuevo a la fuerza malévola de Valak, la monja demonio.",
+			"director":"Michael Chaves"
+		}
+	]
+
+}

@@ -1,0 +1,15 @@
+<h2 class="text-center text-uppercase underline mb-4">Películas</h2>
+<%= link_to("Nuevo", peliculas_new_path, class:"btn btn-outline-dark rounded-0") %>
+<div class="row mx-auto mt-4">
+<% @peliculas.each do |pelicula| %>
+	<div class="col-10 col-md-6 col-lg-4 col-3 mb-3">
+		<div class="card">
+			<div class="card-header fs-4 fw-bold"><%= pelicula.name %></div>
+			<div class="card-body">
+				<h5 class="card-title">Director: <span class="badge bg-warning text-dark"><%= pelicula.director %></span></h5>
+				<p><%= pelicula.sypnosis %></p>
+			</div>
+		</div>
+	</div>
+<% end %>
+</div>

@@ -1,0 +1,24 @@
+<div class="row">
+	<div class="col-6 mx-auto">
+		<div class="card p-3 bg-dark bg-gradient text-warning">
+			<%= form_with model: @documental, method: :post do |form| %>
+			<div class="mb-3">
+				<%= form.label :name, "Nombre" %>
+				<%= form.text_field :name, class:"form-control", :required => true %>
+			</div>
+			<div class="mb-3">
+				<%= form.label :director, "Director" %>
+				<%= form.text_field :director, class:"form-control",:required => true %>
+			</div>
+			<div class="mb-3">
+				<%= form.label :sypnosis, "Sipnosis" %>
+				<%= form.text_area :sypnosis, class: "form-control",:required => true %>
+			</div>
+
+			<div>
+				<%= form.submit "Crear Estreno", class: "btn btn-outline-warning rounded-0" %>
+			</div>
+			<% end %>
+		</div>
+	</div>
+</div>

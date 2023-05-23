@@ -1,0 +1,20 @@
+<nav class="navbar navbar-expand-lg bg-warning border-2 border-bottom border-dark shadow">
+	<div class="container">
+		<%= link_to "#", class: "navbar-brand" do %>
+			<img src="https://raw.githubusercontent.com/EniDev911/assets/main/png/logo/logo_con_bg.png" height="40" />
+		<% end %>
+		<%= button_tag type: :button, 
+			class: "navbar-toggler",
+			data: { bs_toggle: "collapse", bs_target: "#mainNav"} do %>
+				<%= tag.span class: "navbar-toggler-icon" %>
+		<% end %>
+		<div class="collapse navbar-collapse" id="mainNav">
+			<div class="navbar-nav ms-auto fw-bold">
+				<%= link_to "Peliculas", root_path, class: "nav-link" %>
+				<%= link_to "Estrenos", estrenos_index_path, class: "nav-link" %>
+				<%= link_to "Documentales", documentales_index_path, class: "nav-link" %>
+			</div>
+		</div>
+	</div>
+</nav>
+
